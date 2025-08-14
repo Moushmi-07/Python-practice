@@ -1,0 +1,19 @@
+Absence,Presence,Plenty,Existence,Enough
+Accept,Refuse,Fail,Deny,Reject
+Accurate,Inaccurate,Indefinite,Unreliable,Faulty
+Advantage,Disadvantage,Harm,Impotence,Inferiority
+Alive,Dead,Unconscious,Sluggish,Deceased
+Ancient,Modern,Current,Fresh,New
+Answer,Question,Query,Quiet,Trouble
+Approval,Disapproval,Denial,Veto,Refusal
+Approached,Receded,Departed,Leave,Retreat
+Abundant,Scarce	Lacking	Sparse	Meager
+Admit,Deny	Repudiate	Expel	Oust
+Advance,Retreat	 Retire	Behind	Later
+Artificial,Natural	Genuine	Real	Unaffected
+Ascend,Descend	Drop	Slump	Decline
+Attack,Defense	Flight	Shelter	Shield
+Attention,Inattention	Disregard	Lethargy	Neglect
+Asleep,Awake,Conscious,Attentive,Awake
+Ally,Enemy,Antagonist,Detractor,Foe
+Agree,Disagree,Reject,Resist,Object
